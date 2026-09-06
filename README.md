@@ -1,12 +1,10 @@
-### Привет! Я Илья
+### Привет!
 
 Frontend-разработчик · React · Ищу работу в frontend-направлении
 
-Пишу интерфейсы на React, есть опыт коммерческой и фриланс-разработки.
-Также участвовал в командных проектах на Flutter и Unity/C#.
-
-- Сейчас в поиске позиции Frontend-разработчика (React)
-- Пишите в [Telegram](https://t.me/BotMorgan)
+### Обо мне
+- Пишу интерфейсы на React, есть опыт коммерческой и фриланс-разработки.
+- Также участвовал в командных проектах на Flutter и Unity/C#.
 - Студент 4 курса, дипломный проект — e-commerce платформа с AI-консультантом
 
 ### Технологии
@@ -29,6 +27,7 @@ Frontend-разработчик · React · Ищу работу в frontend-на
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Коммерческий опыт
 
