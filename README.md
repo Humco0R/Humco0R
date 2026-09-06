@@ -45,7 +45,7 @@ QR-механики, маршруты сувениров, интернет-ма�
 
 ### Проекты
 
-**[CoilGames — Frontend](https://github.com/Humco0R/CoilGames)**
+**[CoilGames - Frontend](https://github.com/Humco0R/CoilGames)**
 Клиентская часть интернет-магазина настольных игр с ИИ-консультантом.
 React, Vite, Zustand, React Router. Дипломный проект.
 
